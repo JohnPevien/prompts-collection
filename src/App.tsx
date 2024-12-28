@@ -1,6 +1,6 @@
 import { useState } from "react";
-import prompts from "@/prompts/code-prompts.json";
-import { Input } from "@/components/ui/input";
+import prompts from "../code-prompts.json";
+import { Input } from "./components/ui/input";
 import {
   Card,
   CardHeader,
