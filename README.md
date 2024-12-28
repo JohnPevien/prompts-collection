@@ -1,6 +1,6 @@
 # Code Prompts Collection
 
-A modern web application built with React, TypeScript, and Vite that displays a searchable collection of prompts.
+A modern web application built with React, TypeScript, and Vite that displays a searchable collection of prompts from JSON files.
 
 # React + TypeScript + Vite
 
