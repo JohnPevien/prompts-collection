@@ -5,9 +5,8 @@ import {
   CardTitle,
   CardDescription,
   CardFooter,
-} from "../ui/card";
-import { Button } from "../ui/button";
-import { Prompt } from "../../types";
+} from "@src/components/ui/Card";
+import { Prompt } from "@src/types";
 
 type PromptCardProps = {
   title: string;

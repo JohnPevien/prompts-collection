@@ -1,9 +1,9 @@
 import { useState } from "react";
 import prompts from "../code-prompts.json";
-import Header from "./components/blocks/Header";
-import SearchBar from "./components/blocks/SearchBar";
-import PromptCard from "./components/blocks/PromptCard";
-import { Prompt } from "./types";
+import Header from "@src/components/blocks/Header";
+import SearchBar from "@src/components/blocks/SearchBar";
+import PromptCard from "@src/components/blocks/PromptCard";
+import { Prompt } from "@src/types";
 
 function App() {
   const [searchQuery, setSearchQuery] = useState("");
