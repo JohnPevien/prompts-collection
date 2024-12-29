@@ -37,17 +37,14 @@ export default function PromptCard({
         </div>
         <CardDescription className="text-sm">{prompt.prompt}</CardDescription>
       </CardHeader>
-      <CardFooter className="gap-2">
-        {prompt.codeSelection && (
-          <Button variant="outline" size="sm">
-            Code Selection
-          </Button>
-        )}
-        {prompt.codebase && (
-          <Button variant="outline" size="sm">
-            Codebase
-          </Button>
-        )}
+      <CardFooter className="gap-3 flex flex-wrap">
+        {
+          prompt.tags.map((tag) => (
+            <span className="inline-flex items-center justify-center rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-9 px-3">
+              {tag}
+            </span>
+          ))
+        } 
       </CardFooter>
     </Card>
   );
