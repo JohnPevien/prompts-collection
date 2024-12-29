@@ -29,8 +29,8 @@ function App() {
   return (
     <div className="min-h-screen bg-gray-50 w-screen">
       <div className="container mx-auto p-8">
-        <Header />
-        <SearchBar value={searchQuery} onChange={(e) => setSearchQuery(e.target.value)} />
+        <Header title="Code Prompts Collection" description="A collection of useful prompts for code-related tasks" />
+        <SearchBar value={searchQuery} onChange={(e) => setSearchQuery(e.target.value)} placeholder="Search prompts..." />
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
           {filteredPrompts.map(([title, prompt]) => (
             <PromptCard
