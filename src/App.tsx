@@ -1,21 +1,9 @@
 import { useState } from "react";
 import prompts from "../code-prompts.json";
-import { Input } from "./components/ui/input";
-import {
-  Card,
-  CardHeader,
-  CardTitle,
-  CardDescription,
-  CardFooter,
-} from "./components/ui/card";
-import { Button } from "./components/ui/button";
-import { Search, Copy, Check } from "lucide-react";
-
-type Prompt = {
-  prompt: string;
-  codeSelection: boolean;
-  codebase: boolean;
-};
+import Header from "./components/blocks/Header";
+import SearchBar from "./components/blocks/SearchBar";
+import PromptCard from "./components/blocks/PromptCard";
+import { Prompt } from "./types";
 
 function App() {
   const [searchQuery, setSearchQuery] = useState("");
@@ -41,58 +29,17 @@ function App() {
   return (
     <div className="min-h-screen bg-gray-50 w-screen">
       <div className="container mx-auto p-8">
-        <div className="text-center mb-8">
-          <h1 className="text-4xl font-bold text-gray-900 mb-4">
-            Code Prompts Collection
-          </h1>
-          <p className="text-gray-600 max-w-2xl mx-auto">
-            A collection of useful prompts for code-related tasks
-          </p>
-        </div>
-
-        <div className="relative max-w-2xl mx-auto mb-8 p-4">
-          <Search className="absolute left-3 top-2.5 h-4 w-4 text-gray-500" />
-          <Input
-            placeholder="Search prompts..."
-            value={searchQuery}
-            onChange={(e) => setSearchQuery(e.target.value)}
-            className="pl-9 w-full"
-          />
-        </div>
-
+        <Header />
+        <SearchBar value={searchQuery} onChange={(e) => setSearchQuery(e.target.value)} />
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
           {filteredPrompts.map(([title, prompt]) => (
-            <Card
+            <PromptCard
               key={title}
-              className="h-full flex flex-col cursor-pointer group hover:shadow-lg transition-shadow"
-              onClick={() => handleCopy(title, prompt.prompt)}
-            >
-              <CardHeader className="flex-1">
-                <div className="flex justify-between items-start">
-                  <CardTitle className="text-xl mb-2">{title}</CardTitle>
-                  {copiedId === title ? (
-                    <Check className="h-4 w-4 text-green-500" />
-                  ) : (
-                    <Copy className="h-4 w-4 text-gray-400 opacity-0 group-hover:opacity-100 transition-opacity" />
-                  )}
-                </div>
-                <CardDescription className="text-sm">
-                  {prompt.prompt}
-                </CardDescription>
-              </CardHeader>
-              <CardFooter className="gap-2">
-                {prompt.codeSelection && (
-                  <Button variant="outline" size="sm">
-                    Code Selection
-                  </Button>
-                )}
-                {prompt.codebase && (
-                  <Button variant="outline" size="sm">
-                    Codebase
-                  </Button>
-                )}
-              </CardFooter>
-            </Card>
+              title={title}
+              prompt={prompt}
+              copiedId={copiedId}
+              onCopy={handleCopy}
+            />
           ))}
         </div>
       </div>
