@@ -1,10 +1,8 @@
 export type PromptCategory = "All" | "Coding" | "Design" | "Testing" | "Other";
 
-export type Prompt = {
-  prompt: string;
-  footNote: string;
-  codeSelection: boolean;
-  codebase: boolean;
-  category: PromptCategory;
-  tags: string[];
-};
+export interface Prompt {
+    prompt: string;
+    footNote?: string | null;
+    category?: string | null;
+    tags?: string[] | null;
+}
