@@ -22,9 +22,11 @@ export default function PromptCardList({
     const { searchQuery } = useSearch();
 
     const promptsArray = Object.entries(prompts);
-    let filteredPrompts = promptsArray.filter(([title]) =>
-        title.toLowerCase().includes(category.toLowerCase()),
-    );
+    let filteredPrompts = category === "All" 
+        ? promptsArray 
+        : promptsArray.filter(([title]) =>
+            title.toLowerCase().includes(category.toLowerCase()),
+        );
 
     if (searchQuery) {
         filteredPrompts = filteredPrompts.filter(
