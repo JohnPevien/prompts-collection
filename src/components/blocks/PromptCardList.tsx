@@ -2,7 +2,7 @@ import { useSearch } from "@src/contexts/SearchContext";
 import { PromptCategory } from "@src/types";
 import { SearchBar, PromptCard } from "@src/components/blocks";
 import { Prompt } from "@src/types";
-import prompts from "@src/data/prompts.json";
+import prompts from "@src/data/coding-prompts.json";
 
 type PromptCardListProps = {
     category: PromptCategory;
@@ -22,11 +22,12 @@ export default function PromptCardList({
     const { searchQuery } = useSearch();
 
     const promptsArray = Object.entries(prompts);
-    let filteredPrompts = category === "All" 
-        ? promptsArray 
-        : promptsArray.filter(([title]) =>
-            title.toLowerCase().includes(category.toLowerCase()),
-        );
+    let filteredPrompts =
+        category === "All"
+            ? promptsArray
+            : promptsArray.filter(([title]) =>
+                  title.toLowerCase().includes(category.toLowerCase()),
+              );
 
     if (searchQuery) {
         filteredPrompts = filteredPrompts.filter(
