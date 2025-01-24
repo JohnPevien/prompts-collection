@@ -1,5 +1,5 @@
 import React, { createContext, useContext, useState } from "react";
-import prompts from "@src/data/prompts.json";
+import prompts from "@src/data/coding-prompts.json";
 import { Prompt } from "@src/types";
 
 interface SearchContextType {
