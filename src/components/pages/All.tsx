@@ -5,14 +5,11 @@ import { PromptCategory } from "@src/types";
 export default function AllPage() {
     return (
         <div>
-            <Header
-                title="Coding Prompts"
-                description="A collection of useful coding related prompts"
-            />
+            <Header title="All Prompts" description="All collected prompts" />
             <PromptCardList
                 category={"All" as PromptCategory}
                 showSearch={true}
-                searchPlaceholder="Search coding prompts..."
+                searchPlaceholder="Search..."
             />
         </div>
     );
