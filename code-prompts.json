@@ -345,5 +345,29 @@
     "codebase": false,
     "category": "Coding",
     "tags": ["react", "context", "state-management"]
+  },
+  "Cleaning code (generic)": {
+    "prompt": "Review the provided code and identify all possible optimizations to enhance its efficiency. Each optimization should include a description of the specific code section being improved and the corresponding optimized pseudocode. Ensure that each optimization maintains the original functionality of the code.",
+    "footNote": "",
+    "codeSelection": true,
+    "codebase": false,
+    "category": "Coding",
+    "tags": ["code-cleaning", "optimization", "efficiency"]
+  },
+  "Cleaning CSS": {
+    "prompt": "Review the provided CSS code and list all possible optimizations to reduce duplicate CSS properties or rules, thereby improving code efficiency and maintainability. The optimizations should include: 1. Combining CSS rules that have identical property-value pairs but different selectors into a single rule with combined selectors. 2. Removing redundant properties within a single rule, keeping only the last definition of each property. 3. Using CSS variables for property values that are repeated across multiple rules to make the code more modular and easier to maintain. For each optimization, provide: - A description of the optimization. - The current code snippet that is being optimized. - The proposed optimized CSS code. Ensure that each optimization does not alter the original styling of the code.",
+    "footNote": "",
+    "codeSelection": true,
+    "codebase": false,
+    "category": "Coding",
+    "tags": ["css-cleaning", "optimization", "efficiency"]
+  },
+  "SCSS Module": {
+    "prompt": "Review the provided SCSS / CSS Modules code and list all possible optimizations to reduce duplicate CSS properties or rules, thereby improving code efficiency and maintainability. The optimizations should include: 1. Combining CSS rules that have identical property-value pairs but different selectors into a single rule with combined selectors. 2. Removing redundant properties within a single rule, keeping only the last definition of each property. For each optimization, provide: - A description of the optimization. - The current code snippet that is being optimized. - The proposed optimized CSS code. Ensure that each optimization does not alter the original styling of the code.",
+    "footNote": "",
+    "codeSelection": true,
+    "codebase": false,
+    "category": "Coding",
+    "tags": ["scss-cleaning", "optimization", "efficiency"]
   }
 }
