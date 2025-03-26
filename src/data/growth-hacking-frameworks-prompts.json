@@ -1,0 +1,52 @@
+[
+  {
+    "id": "growth-hacking-1",
+    "prompt": "Using the 'Jobs-To-Be-Done' framework, please write a marketing campaign outline that focuses on understanding the motivations and needs of our target customers in their specific 'jobs' or situations. Describe how you would identify the customer's desired outcome and how our [product/service] can help them achieve it. Include specific tactics and metrics you would use to measure success.",
+    "category": "Growth Hacking Frameworks"
+  },
+  {
+    "id": "growth-hacking-2",
+    "prompt": "Write a marketing campaign outline using the 'Viral Loop' framework to create a viral marketing strategy for our [product/service]. Describe the key elements of a successful viral loop and how we can leverage them to drive growth. Include specific tactics and metrics you would use to measure the effectiveness of this approach.",
+    "category": "Growth Hacking Frameworks"
+  },
+  {
+    "id": "growth-hacking-3",
+    "prompt": "Using the 'Blue Ocean Strategy' framework, please write a marketing campaign outline that focuses on creating uncontested market space for our [product/service]. Describe how you would identify new and untapped customer segments and create a differentiated value proposition that sets us apart from our competitors.",
+    "category": "Growth Hacking Frameworks"
+  },
+  {
+    "id": "growth-hacking-4",
+    "prompt": "Write a marketing campaign outline using the 'Value Proposition Canvas' framework to develop a clear and compelling value proposition for our [product/service]. Describe how you would identify the customer's pains and gains and how our [product/service] can address them.",
+    "category": "Growth Hacking Frameworks"
+  },
+  {
+    "id": "growth-hacking-5",
+    "prompt": "Using the 'Pirate Funnel' framework, please write a marketing campaign outline that outlines the key stages of the customer journey for our [product/service] and how we can optimize each stage for maximum growth. Describe how you would acquire, activate, retain, refer, and generate revenue from our [ideal customer persona].",
+    "category": "Growth Hacking Frameworks"
+  },
+  {
+    "id": "growth-hacking-6",
+    "prompt": "Write a marketing campaign outline using the 'Value Stream Mapping' framework to identify and eliminate waste in our marketing and sales processes for our [product/service]. Describe how you would map out the flow of value from our [product/service] to the customer.",
+    "category": "Growth Hacking Frameworks"
+  },
+  {
+    "id": "growth-hacking-7",
+    "prompt": "Using the 'Lean Canvas' framework, please write a marketing campaign outline that identifies the key elements of our business model for our [product/service], including the value proposition, target customer segments, revenue streams, and key activities.",
+    "category": "Growth Hacking Frameworks"
+  },
+  {
+    "id": "growth-hacking-8",
+    "prompt": "Write a marketing campaign outline using the 'Minimum Viable Marketing' framework to develop a marketing strategy that is lean, iterative, and focused on delivering the most value to our [ideal customer persona]. Describe how you would prioritize marketing activities.",
+    "category": "Growth Hacking Frameworks"
+  },
+  {
+    "id": "growth-hacking-9",
+    "prompt": "Using the 'Customer Development' framework, please write a marketing campaign outline that focuses on understanding and engaging with our customers to validate our assumptions and improve our [product/service]. Describe how you would conduct customer interviews and surveys.",
+    "category": "Growth Hacking Frameworks"
+  },
+  {
+    "id": "growth-hacking-10",
+    "prompt": "Write a marketing campaign outline using the 'Brand Archetype' framework to develop a strong and consistent brand identity for our [product/service]. Describe how you would identify our brand archetype and use it to guide our messaging and visual design.",
+    "category": "Growth Hacking Frameworks"
+  }
+]

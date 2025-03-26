@@ -1,0 +1,52 @@
+[
+  {
+    "id": "copywriting-framework-1",
+    "prompt": "Using the 'FAB' formula, write a marketing campaign outline that focuses on the key features of our [product/service] and highlights how those features translate into advantages for [ideal customer persona]. Then, explain how those advantages will ultimately benefit the customer and drive them to take action.",
+    "category": "Copywriting Frameworks"
+  },
+  {
+    "id": "copywriting-framework-2",
+    "prompt": "Write a marketing campaign outline using the 'Emotion-Logic-Scarcity' framework to appeal to the emotions of [ideal customer persona] and create a logical argument for why they need our [product/service]. Finally, use the concept of scarcity to create a sense of urgency and encourage the reader to take action.",
+    "category": "Copywriting Frameworks"
+  },
+  {
+    "id": "copywriting-framework-3",
+    "prompt": "Using the 'Value Proposition' framework, write a marketing campaign outline that clearly communicates the unique value proposition of our [product/service] to [ideal customer persona]. Use persuasive language to explain why our product is the best solution for their needs and why they should take action now.",
+    "category": "Copywriting Frameworks"
+  },
+  {
+    "id": "copywriting-framework-4",
+    "prompt": "Write a marketing campaign outline using the 'Education-Based Marketing' framework to provide valuable education and information to [ideal customer persona] about a problem they may be facing. Then, introduce our [product/service] as the solution to that problem and encourage the reader to take action.",
+    "category": "Copywriting Frameworks"
+  },
+  {
+    "id": "copywriting-framework-5",
+    "prompt": "Using the 'Product Comparison' framework, write a marketing campaign outline that compares our [product/service] to the competition and highlights why our product is superior. Use persuasive language to convince [ideal customer persona] that our product is the best choice for their needs.",
+    "category": "Copywriting Frameworks"
+  },
+  {
+    "id": "copywriting-framework-6",
+    "prompt": "Write a marketing campaign outline using the 'Celebrity Endorsement' framework to feature a celebrity or influencer who has used and endorsed our [product/service]. Use their endorsement to create credibility and trust with [ideal customer persona] and encourage them to take action.",
+    "category": "Copywriting Frameworks"
+  },
+  {
+    "id": "copywriting-framework-7",
+    "prompt": "Using the 'Fear of Missing Out' framework, write a marketing campaign outline that creates a sense of urgency and scarcity around our [product/service]. Use language that conveys the idea that [ideal customer persona] may miss out on something valuable if they do not take action now.",
+    "category": "Copywriting Frameworks"
+  },
+  {
+    "id": "copywriting-framework-8",
+    "prompt": "Write a marketing campaign outline using the 'Guarantee' framework to provide a strong guarantee that gives [ideal customer persona] peace of mind and encourages them to take action. Use persuasive language to explain the details of the guarantee and why they should trust our product.",
+    "category": "Copywriting Frameworks"
+  },
+  {
+    "id": "copywriting-framework-9",
+    "prompt": "Using the 'Problem-Solution-Bridge' framework, write a marketing campaign outline that identifies the problem faced by [ideal customer persona], presents our [product/service] as the solution, and bridges the gap by showing how they can move from their current state to their desired state.",
+    "category": "Copywriting Frameworks"
+  },
+  {
+    "id": "copywriting-framework-10",
+    "prompt": "Write a marketing campaign outline using the 'Before-After-Bridge' framework that shows [ideal customer persona] where they are now, where they could be with our [product/service], and how our solution can help them bridge that gap effectively.",
+    "category": "Copywriting Frameworks"
+  }
+]

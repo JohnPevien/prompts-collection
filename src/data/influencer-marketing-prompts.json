@@ -1,0 +1,52 @@
+[
+  {
+    "id": "influencer-1",
+    "prompt": "I want an influencer marketing campaign outline that will create an emotional connection between my [ideal customer persona] and our [product/service] by featuring [influencer type] who can share their personal experience and story related to our brand values.",
+    "category": "Influencer Marketing"
+  },
+  {
+    "id": "influencer-2",
+    "prompt": "I need an influencer marketing campaign outline that will showcase the versatility and value of our [product/service] to my [ideal customer persona] with the help of [influencer type] who can demonstrate various use cases and benefits through their content.",
+    "category": "Influencer Marketing"
+  },
+  {
+    "id": "influencer-3",
+    "prompt": "I'm looking for an influencer marketing campaign outline that will target my [ideal customer persona] on a specific social media platform with the most relevant and engaging content from [influencer type] who has a strong following and engagement on that platform.",
+    "category": "Influencer Marketing"
+  },
+  {
+    "id": "influencer-4",
+    "prompt": "I want an influencer marketing campaign outline that will align with our current marketing strategy and messaging to create a cohesive and consistent brand image to my [ideal customer persona] with the help of [influencer type] who can seamlessly integrate our brand values and message into their content.",
+    "category": "Influencer Marketing"
+  },
+  {
+    "id": "influencer-5",
+    "prompt": "I need an influencer marketing campaign outline that will tap into the latest trends and interests of my [ideal customer persona] with the help of [influencer type] who can create innovative and trendy content that resonates with our target audience.",
+    "category": "Influencer Marketing"
+  },
+  {
+    "id": "influencer-6",
+    "prompt": "I'm looking for an influencer marketing campaign outline that will target a specific niche or subculture within my [ideal customer persona] with the help of [influencer type] who has a strong influence and authority within that community.",
+    "category": "Influencer Marketing"
+  },
+  {
+    "id": "influencer-7",
+    "prompt": "I want an influencer marketing campaign outline that will showcase the social impact and responsibility of our [product/service] to my [ideal customer persona] with the help of [influencer type] who has a strong commitment to social causes and activism.",
+    "category": "Influencer Marketing"
+  },
+  {
+    "id": "influencer-8",
+    "prompt": "I need an influencer marketing campaign outline that will leverage the humor and entertainment value of [influencer type] to engage my [ideal customer persona] and create a memorable brand experience that leads to [desired action].",
+    "category": "Influencer Marketing"
+  },
+  {
+    "id": "influencer-9",
+    "prompt": "I'm looking for an influencer marketing campaign outline that will target my [ideal customer persona] in a specific geographic location with the help of [influencer type] who has a strong local influence and connection to that region.",
+    "category": "Influencer Marketing"
+  },
+  {
+    "id": "influencer-10",
+    "prompt": "I need an influencer marketing campaign outline that will leverage the exclusivity and luxury of our [product/service] to create a premium brand image to my [ideal customer persona] with the help of [influencer type] who has a strong association with luxury and high-end brands.",
+    "category": "Influencer Marketing"
+  }
+]

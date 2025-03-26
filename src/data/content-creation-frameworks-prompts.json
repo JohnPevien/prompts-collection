@@ -1,0 +1,52 @@
+[
+  {
+    "id": "content-creation-1",
+    "prompt": "Using the 'Before-After-Bridge' framework, please write a marketing campaign outline that highlights the current [problem] faced by [ideal customer persona], introduces our [product/service] as a solution, and shows how our product can transform their situation for the better.",
+    "category": "Content Creation Frameworks"
+  },
+  {
+    "id": "content-creation-2",
+    "prompt": "Write a social media post using the AIDA framework that grabs the reader's attention with an [attention-grabbing headline], creates interest by describing the [problem] or [need], generates desire by showcasing the benefits of our [product/service], and ends with a clear [call to action].",
+    "category": "Content Creation Frameworks"
+  },
+  {
+    "id": "content-creation-3",
+    "prompt": "Using the 'Storytelling' framework, please write a marketing campaign outline that tells a compelling story about how our [product/service] helped a [customer] overcome their [problem]. Use vivid details and emotional language to create a connection with the reader and showcase the effectiveness of our product.",
+    "category": "Content Creation Frameworks"
+  },
+  {
+    "id": "content-creation-4",
+    "prompt": "Write a blog post using the 'Skyscraper' framework that researches and compiles the best available information on a specific [topic] and adds our own unique insights and perspectives. Use data and examples to support your points and make the content more informative and engaging.",
+    "category": "Content Creation Frameworks"
+  },
+  {
+    "id": "content-creation-5",
+    "prompt": "Using the 'Fear-Of-Missing-Out (FOMO)' framework, please write a marketing campaign outline that highlights the benefits of our [product/service] and creates a sense of urgency to take action. Use scarcity and exclusivity to entice the reader and encourage them to act quickly.",
+    "category": "Content Creation Frameworks"
+  },
+  {
+    "id": "content-creation-6",
+    "prompt": "Write an email using the 'Personalization' framework that addresses the reader by name, uses their past behavior or preferences to make recommendations, and includes a personalized [call to action]. Use language that creates a connection with the reader and makes the email feel tailored to their needs.",
+    "category": "Content Creation Frameworks"
+  },
+  {
+    "id": "content-creation-7",
+    "prompt": "Using the 'Surprise and Delight' framework, please write a marketing campaign outline that goes above and beyond to exceed the expectations of our [ideal customer persona]. Use unexpected gestures or rewards to create a memorable experience and foster loyalty towards our brand.",
+    "category": "Content Creation Frameworks"
+  },
+  {
+    "id": "content-creation-8",
+    "prompt": "Write a video script using the 'Problem-Agitate-Solve' framework that identifies a common [problem], agitates the reader's emotions by showing the negative effects of the problem, and presents our [product/service] as the solution. Use storytelling and visuals to make the content more engaging and memorable.",
+    "category": "Content Creation Frameworks"
+  },
+  {
+    "id": "content-creation-9",
+    "prompt": "Using the 'Urgency-Scarcity-Exclusivity' framework, please write a marketing campaign outline that creates a sense of urgency and scarcity around our [product/service] and offers exclusive deals or rewards to incentivize the reader to take action. Use language and visuals that convey a sense of excitement and exclusivity.",
+    "category": "Content Creation Frameworks"
+  },
+  {
+    "id": "content-creation-10",
+    "prompt": "Write a product description using the 'Features-Advantages-Benefits' framework that describes the features of our [product/service], the advantages those features provide, and the benefits the reader will receive. Use language that highlights the value and impact of our product on the reader's life.",
+    "category": "Content Creation Frameworks"
+  }
+]
