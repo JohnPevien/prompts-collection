@@ -1,8 +1,7 @@
 import { useSearch } from "@src/contexts/SearchContext";
 import { PromptCategory } from "@src/types";
 import { SearchBar, PromptCard } from "@src/components/blocks";
-import { Prompt } from "@src/types";
-import prompts from "@src/data/coding-prompts.json";
+import { getPromptsByCategory } from "@src/lib/prompts";
 
 type PromptCardListProps = {
     category: PromptCategory;
@@ -21,13 +20,7 @@ export default function PromptCardList({
 }: PromptCardListProps) {
     const { searchQuery } = useSearch();
 
-    const promptsArray = Object.entries(prompts);
-    let filteredPrompts =
-        category === "All"
-            ? promptsArray
-            : promptsArray.filter(([title]) =>
-                  title.toLowerCase().includes(category.toLowerCase()),
-              );
+    let filteredPrompts = getPromptsByCategory(category);
 
     if (searchQuery) {
         filteredPrompts = filteredPrompts.filter(
@@ -45,7 +38,7 @@ export default function PromptCardList({
                 />
             )}
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-                {filteredPrompts.map(([title, prompt]: [string, Prompt]) => (
+                {filteredPrompts.map(([title, prompt]) => (
                     <PromptCard key={title} title={title} prompt={prompt} />
                 ))}
             </div>

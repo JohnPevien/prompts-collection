@@ -1,4 +1,4 @@
-export type PromptCategory = "All" | "Coding" | "Other";
+export type PromptCategory = "All" | "Coding" | "Marketing" | "Other";
 
 export interface Prompt {
     prompt: string;

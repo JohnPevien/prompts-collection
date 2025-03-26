@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import PromptCategories from "@src/components/blocks/PromptCategories";
-import { All, CodingPage } from "./components/pages";
+import { All, CodingPage, MarketingPage } from "./components/pages";
 import { SearchProvider } from "@src/contexts/SearchContext";
 function App() {
     return (
@@ -12,6 +12,10 @@ function App() {
                         <Routes>
                             <Route path="/" element={<All />} />
                             <Route path="/coding" element={<CodingPage />} />
+                            <Route
+                                path="/marketing"
+                                element={<MarketingPage />}
+                            />
                         </Routes>
                     </SearchProvider>
                 </BrowserRouter>
