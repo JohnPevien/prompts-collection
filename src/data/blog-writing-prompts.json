@@ -1,52 +1,62 @@
-[
-  {
-    "id": "blog-1",
-    "prompt": "As a [type of blog post], craft a personalized message that resonates with your [ideal customer persona] by focusing on their specific needs and desires, and compelling them to take [desired action] with a clear value proposition.",
-    "category": "Blog Writing"
-  },
-  {
-    "id": "blog-2",
-    "prompt": "Write a compelling [type of blog post] that addresses the specific pain points of your [ideal customer persona] and demonstrates how your [product/service] can uniquely solve their problems, while emphasizing the importance of taking [desired action].",
-    "category": "Blog Writing"
-  },
-  {
-    "id": "blog-3",
-    "prompt": "Create a [type of blog post] that highlights the authentic experiences of your satisfied customers, sharing their testimonials and success stories to build trust and credibility with your [ideal customer persona], and persuade them to take [desired action] with confidence.",
-    "category": "Blog Writing"
-  },
-  {
-    "id": "blog-4",
-    "prompt": "Develop an emotionally engaging [type of blog post] that speaks directly to the heart of your [ideal customer persona], evoking feelings of [emotion] and compelling them to take [desired action] immediately with a sense of urgency.",
-    "category": "Blog Writing"
-  },
-  {
-    "id": "blog-5",
-    "prompt": "Craft a persuasive [type of blog post] that showcases the unique features and benefits of your [product/service], specifically tailored to the needs and preferences of your [ideal customer persona], and provide a clear and actionable call-to-action to drive conversion.",
-    "category": "Blog Writing"
-  },
-  {
-    "id": "blog-6",
-    "prompt": "Write a detailed [type of blog post] that anticipates and addresses the most common objections and concerns of your [ideal customer persona], providing reassurance and building confidence in your [product/service], and ultimately convincing them to take [desired action].",
-    "category": "Blog Writing"
-  },
-  {
-    "id": "blog-7",
-    "prompt": "Develop a concise and clear [type of blog post] that explains the features and benefits of your [product/service] in a way that resonates with your [ideal customer persona], and includes a strong and persuasive call-to-action that encourages them to take [desired action] without hesitation.",
-    "category": "Blog Writing"
-  },
-  {
-    "id": "blog-8",
-    "prompt": "Create a [type of blog post] that intimately understands and speaks to the specific needs and pain points of your [ideal customer persona], demonstrating how your [product/service] is the solution they have been searching for, and motivating them to take [desired action] with a sense of empowerment.",
-    "category": "Blog Writing"
-  },
-  {
-    "id": "blog-9",
-    "prompt": "Write an attention-grabbing [type of blog post] that captures the interest of your [ideal customer persona] with a strong headline and hook, and persuades them to take [desired action] through compelling language, engaging visuals, and credible evidence.",
-    "category": "Blog Writing"
-  },
-  {
-    "id": "blog-10",
-    "prompt": "Develop a captivating [type of blog post] that tells a story about how your [product/service] has helped a real customer, sharing their journey and highlighting the outcomes they achieved, in a relatable and engaging way that inspires your [ideal customer persona] to take [desired action].",
-    "category": "Blog Writing"
-  }
-]
+{
+    "Personalized Message Value Proposition": {
+        "prompt": "As a [type of blog post], craft a personalized message that resonates with your [ideal customer persona] by focusing on their specific needs and desires, and compelling them to take [desired action] with a clear value proposition.",
+        "footNote": "Review the final message for clarity, personalization, and strong value proposition before publishing.",
+        "category": "Blog Writing",
+        "tags": ["personalization", "value-proposition", "customer-persona"]
+    },
+    "Pain Points Solution Focused": {
+        "prompt": "Write a compelling [type of blog post] that addresses the specific pain points of your [ideal customer persona] and demonstrates how your [product/service] can uniquely solve their problems, while emphasizing the importance of taking [desired action].",
+        "footNote": "Ensure the pain points are accurately identified and the solution is clearly presented.",
+        "category": "Blog Writing",
+        "tags": ["pain-points", "problem-solving", "customer-needs"]
+    },
+    "Customer Testimonials Trust Building": {
+        "prompt": "Create a [type of blog post] that highlights the authentic experiences of your satisfied customers, sharing their testimonials and success stories to build trust and credibility with your [ideal customer persona], and persuade them to take [desired action] with confidence.",
+        "footNote": "Verify all testimonials for authenticity and obtain necessary permissions.",
+        "category": "Blog Writing",
+        "tags": ["testimonials", "trust-building", "social-proof"]
+    },
+    "Emotional Engagement Urgency": {
+        "prompt": "Develop an emotionally engaging [type of blog post] that speaks directly to the heart of your [ideal customer persona], evoking feelings of [emotion] and compelling them to take [desired action] immediately with a sense of urgency.",
+        "footNote": "Review emotional tone to ensure it aligns with brand voice and audience expectations.",
+        "category": "Blog Writing",
+        "tags": ["emotional-appeal", "urgency", "persuasion"]
+    },
+    "Feature Benefits Call To Action": {
+        "prompt": "Craft a persuasive [type of blog post] that showcases the unique features and benefits of your [product/service], specifically tailored to the needs and preferences of your [ideal customer persona], and provide a clear and actionable call-to-action to drive conversion.",
+        "footNote": "Ensure features are accurately described and benefits are clearly linked to customer needs.",
+        "category": "Blog Writing",
+        "tags": ["features", "benefits", "call-to-action"]
+    },
+    "Address Objections Reassurance": {
+        "prompt": "Write a detailed [type of blog post] that anticipates and addresses the most common objections and concerns of your [ideal customer persona], providing reassurance and building confidence in your [product/service], and ultimately convincing them to take [desired action].",
+        "footNote": "Verify all objections are common and accurately addressed with credible responses.",
+        "category": "Blog Writing",
+        "tags": ["objections", "reassurance", "customer-concerns"]
+    },
+    "Concise Features Benefits": {
+        "prompt": "Develop a concise and clear [type of blog post] that explains the features and benefits of your [product/service] in a way that resonates with your [ideal customer persona], and includes a strong and persuasive call-to-action that encourages them to take [desired action] without hesitation.",
+        "footNote": "Review for clarity and conciseness while maintaining persuasive power.",
+        "category": "Blog Writing",
+        "tags": ["conciseness", "clarity", "features-benefits"]
+    },
+    "Customer Needs Empowerment": {
+        "prompt": "Create a [type of blog post] that intimately understands and speaks to the specific needs and pain points of your [ideal customer persona], demonstrating how your [product/service] is the solution they have been searching for, and motivating them to take [desired action] with a sense of empowerment.",
+        "footNote": "Ensure the content truly empowers the reader to take action.",
+        "category": "Blog Writing",
+        "tags": ["customer-needs", "empowerment", "solution-focused"]
+    },
+    "Attention Grabbing Headline Evidence": {
+        "prompt": "Write an attention-grabbing [type of blog post] that captures the interest of your [ideal customer persona] with a strong headline and hook, and persuades them to take [desired action] through compelling language, engaging visuals, and credible evidence.",
+        "footNote": "Test headlines for effectiveness before finalizing.",
+        "category": "Blog Writing",
+        "tags": ["headlines", "attention", "credibility"]
+    },
+    "Customer Journey Story Outcomes": {
+        "prompt": "Develop a captivating [type of blog post] that tells a story about how your [product/service] has helped a real customer, sharing their journey and highlighting the outcomes they achieved, in a relatable and engaging way that inspires your [ideal customer persona] to take [desired action].",
+        "footNote": "Ensure the story is authentic and outcomes are verifiable.",
+        "category": "Blog Writing",
+        "tags": ["storytelling", "customer-journey", "case-study"]
+    }
+}
