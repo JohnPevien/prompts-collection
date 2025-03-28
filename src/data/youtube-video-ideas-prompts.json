@@ -1,52 +1,132 @@
 [
   {
     "id": "youtube-video-1",
+    "title": "Entertaining YouTube Video for Brand Awareness & Buzz",
     "prompt": "I need a YouTube video idea that will build brand awareness and create a buzz around my [product/service] among my [ideal customer persona] by showcasing its unique features in an entertaining and shareable way.",
-    "category": "Youtube Video Ideas"
+    "category": "Youtube",
+    "tags": [
+      "youtube",
+      "video-idea",
+      "brand-awareness",
+      "entertainment",
+      "shareable-content"
+    ]
   },
   {
     "id": "youtube-video-2",
+    "title": "Humanizing Brand YouTube Video (Origin Story & Impact)",
     "prompt": "I'm looking for a YouTube video idea that will humanize my [product/service] by telling a story about its origins, the people behind it, and its impact on [subject] that will resonate with my [ideal customer persona] and persuade them to take [desired action].",
-    "category": "Youtube Video Ideas"
+    "category": "Youtube",
+    "tags": [
+      "youtube",
+      "video-idea",
+      "brand-humanization",
+      "storytelling",
+      "origin-story"
+    ]
   },
   {
     "id": "youtube-video-3",
+    "title": "Social Proof YouTube Video (Influencer/Celebrity Testimonials)",
     "prompt": "I need a YouTube video idea that will leverage the power of social proof by featuring endorsements and testimonials from influencers or celebrities that my [ideal customer persona] trusts and admires, showcasing the benefits and value of my [product/service].",
-    "category": "Youtube Video Ideas"
+    "category": "Youtube",
+    "tags": [
+      "youtube",
+      "video-idea",
+      "social-proof",
+      "influencer-marketing",
+      "testimonials"
+    ]
   },
   {
     "id": "youtube-video-4",
+    "title": "Urgency/Scarcity YouTube Video (Limited Offer/Sale)",
     "prompt": "I'm looking for a YouTube video idea that will create a sense of urgency and scarcity around my [product/service] by promoting a limited-time offer or a flash sale that will persuade my [ideal customer persona] to take immediate action.",
-    "category": "Youtube Video Ideas"
+    "category": "Youtube",
+    "tags": [
+      "youtube",
+      "video-idea",
+      "urgency",
+      "scarcity",
+      "limited-time-offer"
+    ]
   },
   {
     "id": "youtube-video-5",
+    "title": "Educational YouTube Video (Solving Customer Pain Points)",
     "prompt": "I need a YouTube video idea that will educate my [ideal customer persona] about the common pain points and challenges they face in their daily lives and how my [product/service] can help them solve those problems in a practical and effective way.",
-    "category": "Youtube Video Ideas"
+    "category": "Youtube",
+    "tags": [
+      "youtube",
+      "video-idea",
+      "education",
+      "pain-points",
+      "problem-solution"
+    ]
   },
   {
     "id": "youtube-video-6",
+    "title": "Emotional YouTube Video (Inspiring Transformation Story)",
     "prompt": "I'm looking for a YouTube video idea that will tap into the emotions of my [ideal customer persona] by showcasing the transformative power of my [product/service] through a heartwarming or inspiring story that will persuade them to take [desired action].",
-    "category": "Youtube Video Ideas"
+    "category": "Youtube",
+    "tags": [
+      "youtube",
+      "video-idea",
+      "emotional-marketing",
+      "storytelling",
+      "transformation"
+    ]
   },
   {
     "id": "youtube-video-7",
+    "title": "Competitive Differentiation YouTube Video (USP Focus)",
     "prompt": "I need a YouTube video idea that will differentiate my [product/service] from its competitors by highlighting its unique selling proposition and how it offers a better solution to the needs and wants of my [ideal customer persona].",
-    "category": "Youtube Video Ideas"
+    "category": "Youtube",
+    "tags": [
+      "youtube",
+      "video-idea",
+      "differentiation",
+      "usp",
+      "competitive-advantage"
+    ]
   },
   {
     "id": "youtube-video-8",
+    "title": "Humorous/Satirical YouTube Video for Memorability",
     "prompt": "I'm looking for a YouTube video idea that will leverage the power of humor or satire to create a memorable and entertaining experience that will stick in the minds of my [ideal customer persona] and persuade them to take [desired action].",
-    "category": "Youtube Video Ideas"
+    "category": "Youtube",
+    "tags": [
+      "youtube",
+      "video-idea",
+      "humor",
+      "satire",
+      "entertainment"
+    ]
   },
   {
     "id": "youtube-video-9",
+    "title": "Aspirational YouTube Video (Luxury/Status Symbol)",
     "prompt": "I need a YouTube video idea that will position my [product/service] as a status symbol or a lifestyle choice that my [ideal customer persona] aspires to, by showcasing its luxury or exclusive features in a visually stunning and aspirational way.",
-    "category": "Youtube Video Ideas"
+    "category": "Youtube",
+    "tags": [
+      "youtube",
+      "video-idea",
+      "aspirational-marketing",
+      "luxury",
+      "status-symbol"
+    ]
   },
   {
     "id": "youtube-video-10",
+    "title": "Community Building YouTube Video (UGC/Challenges)",
     "prompt": "I'm looking for a YouTube video idea that will create a sense of community and belonging around my [product/service] by featuring user-generated content, social media challenges or contests that will engage my [ideal customer persona] and persuade them to become brand advocates.",
-    "category": "Youtube Video Ideas"
+    "category": "Youtube",
+    "tags": [
+      "youtube",
+      "video-idea",
+      "community-building",
+      "ugc",
+      "brand-advocacy"
+    ]
   }
 ]
