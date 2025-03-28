@@ -1,52 +1,132 @@
 [
   {
     "id": "twitter-thread-1",
+    "title": "Viral Twitter Thread for Product Buzz & USP",
     "prompt": "I want to create a Twitter thread that will go viral and generate buzz around my [product/service] while showcasing its unique selling points and how it solves [pain point] for my [ideal customer persona].",
-    "category": "Twitter Thread Ideas"
+    "category": "Twitter",
+    "tags": [
+      "twitter",
+      "thread-idea",
+      "viral-marketing",
+      "product-launch",
+      "usp"
+    ]
   },
   {
     "id": "twitter-thread-2",
+    "title": "Educational Twitter Thread on Industry & Product Solution",
     "prompt": "I need a Twitter thread idea that will educate my [ideal customer persona] about [industry/niche] and how my [product/service] can help them achieve their [goal]. The thread should include valuable insights, expert tips, and a strong call-to-action.",
-    "category": "Twitter Thread Ideas"
+    "category": "Twitter",
+    "tags": [
+      "twitter",
+      "thread-idea",
+      "education",
+      "industry-insights",
+      "cta"
+    ]
   },
   {
     "id": "twitter-thread-3",
+    "title": "Twitter Thread Creating FOMO for Product",
     "prompt": "I'm looking for a Twitter thread idea that will create a sense of FOMO (fear of missing out) among my [ideal customer persona] by showcasing the limited availability of my [product/service] and its unique features that they won't find elsewhere.",
-    "category": "Twitter Thread Ideas"
+    "category": "Twitter",
+    "tags": [
+      "twitter",
+      "thread-idea",
+      "fomo",
+      "scarcity",
+      "exclusivity"
+    ]
   },
   {
     "id": "twitter-thread-4",
+    "title": "Compelling Transformation Story Twitter Thread",
     "prompt": "I need a Twitter thread idea that will tell a compelling story about my [product/service] and how it has transformed the lives of my [ideal customer persona]. The thread should include real-life examples, testimonials, and social proof.",
-    "category": "Twitter Thread Ideas"
+    "category": "Twitter",
+    "tags": [
+      "twitter",
+      "thread-idea",
+      "storytelling",
+      "customer-story",
+      "social-proof"
+    ]
   },
   {
     "id": "twitter-thread-5",
+    "title": "Twitter Thread on Social Impact & Sustainability",
     "prompt": "I'm looking for a Twitter thread idea that will highlight the social impact and sustainability aspects of my [product/service] and how it aligns with the values of my [ideal customer persona].",
-    "category": "Twitter Thread Ideas"
+    "category": "Twitter",
+    "tags": [
+      "twitter",
+      "thread-idea",
+      "social-impact",
+      "sustainability",
+      "brand-values"
+    ]
   },
   {
     "id": "twitter-thread-6",
+    "title": "Emotional Connection Twitter Thread via Personal Story",
     "prompt": "I need a Twitter thread idea that will spark an emotional connection with my [ideal customer persona] by highlighting the personal story behind my [product/service]. The thread should include a relatable message, powerful visuals, and a clear call-to-action.",
-    "category": "Twitter Thread Ideas"
+    "category": "Twitter",
+    "tags": [
+      "twitter",
+      "thread-idea",
+      "emotional-marketing",
+      "storytelling",
+      "brand-story"
+    ]
   },
   {
     "id": "twitter-thread-7",
+    "title": "Urgency-Building Twitter Thread (Promo/Sale)",
     "prompt": "I'm looking for a Twitter thread idea that will create a sense of urgency among my [ideal customer persona] by offering a time-sensitive promotion, limited-time offer, or flash sale.",
-    "category": "Twitter Thread Ideas"
+    "category": "Twitter",
+    "tags": [
+      "twitter",
+      "thread-idea",
+      "urgency",
+      "promotion",
+      "sales"
+    ]
   },
   {
     "id": "twitter-thread-8",
+    "title": "Twitter Thread Positioning Product as Problem Solver",
     "prompt": "I need a Twitter thread idea that will position my [product/service] as a solution to a common problem or challenge faced by my [ideal customer persona]. The thread should include helpful tips, industry insights, and a strong call-to-action.",
-    "category": "Twitter Thread Ideas"
+    "category": "Twitter",
+    "tags": [
+      "twitter",
+      "thread-idea",
+      "problem-solution",
+      "value-proposition",
+      "cta"
+    ]
   },
   {
     "id": "twitter-thread-9",
+    "title": "Twitter Thread Showcasing Innovation & Disruption",
     "prompt": "I'm looking for a Twitter thread idea that will showcase the innovation and cutting-edge technology behind my [product/service] and how it's disrupting the industry. The thread should include powerful visuals, industry statistics, and a strong call-to-action.",
-    "category": "Twitter Thread Ideas"
+    "category": "Twitter",
+    "tags": [
+      "twitter",
+      "thread-idea",
+      "innovation",
+      "technology",
+      "industry-disruption"
+    ]
   },
   {
     "id": "twitter-thread-10",
+    "title": "Twitter Thread Establishing Brand Authority & Expertise",
     "prompt": "I need a Twitter thread idea that will demonstrate the expertise and authority of my brand by sharing valuable insights and tips related to my [product/service]. The thread should position us as thought leaders and include a compelling call-to-action.",
-    "category": "Twitter Thread Ideas"
+    "category": "Twitter",
+    "tags": [
+      "twitter",
+      "thread-idea",
+      "thought-leadership",
+      "expertise",
+      "brand-building"
+    ]
   }
 ]
