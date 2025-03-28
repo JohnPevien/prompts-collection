@@ -1,52 +1,132 @@
 [
   {
     "id": "youtube-ad-1",
+    "title": "Humorous & Creative YouTube Ad Script",
     "prompt": "I want a YouTube ad script that will use humour and creativity to capture the attention of my [ideal customer persona], showcase the value of my [product/service], and persuade them to take [desired action] with a unique call-to-action.",
-    "category": "Youtube Ad Scripts"
+    "category": "Youtube",
+    "tags": [
+      "youtube",
+      "ad-script",
+      "video-marketing",
+      "humor",
+      "creativity"
+    ]
   },
   {
     "id": "youtube-ad-2",
+    "title": "Problem/Solution YouTube Ad Script with Testimonial",
     "prompt": "I need a YouTube ad script that will highlight the problem my [ideal customer persona] is facing and position my [product/service] as the best solution with the help of a testimonial or success story.",
-    "category": "Youtube Ad Scripts"
+    "category": "Youtube",
+    "tags": [
+      "youtube",
+      "ad-script",
+      "problem-solution",
+      "testimonial",
+      "social-proof"
+    ]
   },
   {
     "id": "youtube-ad-3",
+    "title": "Emotional Appeal YouTube Ad Script (Pain Points)",
     "prompt": "I'm looking for a YouTube ad script that will use emotional appeals to connect with my [ideal customer persona], tell a story about their pain points, and persuade them to take [desired action] with a powerful call-to-action.",
-    "category": "Youtube Ad Scripts"
+    "category": "Youtube",
+    "tags": [
+      "youtube",
+      "ad-script",
+      "emotional-appeal",
+      "storytelling",
+      "pain-points"
+    ]
   },
   {
     "id": "youtube-ad-4",
+    "title": "Influencer/Celebrity Endorsement YouTube Ad Script",
     "prompt": "I want a YouTube ad script that will leverage social media influencers or celebrity endorsements to increase the credibility and trustworthiness of my [product/service] and persuade my [ideal customer persona] to take [desired action].",
-    "category": "Youtube Ad Scripts"
+    "category": "Youtube",
+    "tags": [
+      "youtube",
+      "ad-script",
+      "influencer-marketing",
+      "celebrity-endorsement",
+      "credibility"
+    ]
   },
   {
     "id": "youtube-ad-5",
+    "title": "Data-Driven YouTube Ad Script (Proof & Superiority)",
     "prompt": "I need a YouTube ad script that will use data and statistics to prove the effectiveness and superiority of my [product/service] over competitors and persuade my [ideal customer persona] to take [desired action].",
-    "category": "Youtube Ad Scripts"
+    "category": "Youtube",
+    "tags": [
+      "youtube",
+      "ad-script",
+      "data-driven",
+      "proof",
+      "competitive-advantage"
+    ]
   },
   {
     "id": "youtube-ad-6",
+    "title": "Scarcity & Exclusivity YouTube Ad Script (Urgency)",
     "prompt": "I'm looking for a YouTube ad script that will use scarcity and exclusivity to create a sense of urgency and persuade my [ideal customer persona] to take [desired action] with a limited-time offer or special deal.",
-    "category": "Youtube Ad Scripts"
+    "category": "Youtube",
+    "tags": [
+      "youtube",
+      "ad-script",
+      "scarcity",
+      "urgency",
+      "limited-time-offer"
+    ]
   },
   {
     "id": "youtube-ad-7",
+    "title": "Interactive YouTube Ad Script (Quiz/Poll)",
     "prompt": "I want a YouTube ad script that will use interactive elements like quizzes, polls, or interactive graphics to engage my [ideal customer persona] and persuade them to take [desired action] with a customized call-to-action.",
-    "category": "Youtube Ad Scripts"
+    "category": "Youtube",
+    "tags": [
+      "youtube",
+      "ad-script",
+      "interactive-content",
+      "engagement",
+      "quiz"
+    ]
   },
   {
     "id": "youtube-ad-8",
+    "title": "Value-Alignment YouTube Ad Script (Social/Environmental)",
     "prompt": "I need a YouTube ad script that will address the environmental or social impact of my [product/service] and showcase how it aligns with the values of my [ideal customer persona] to persuade them to take [desired action].",
-    "category": "Youtube Ad Scripts"
+    "category": "Youtube",
+    "tags": [
+      "youtube",
+      "ad-script",
+      "social-impact",
+      "environmental-impact",
+      "brand-values"
+    ]
   },
   {
     "id": "youtube-ad-9",
+    "title": "Comparison/Contrast YouTube Ad Script",
     "prompt": "I'm looking for a YouTube ad script that will use a comparison or contrast approach to highlight the strengths of my [product/service] and persuade my [ideal customer persona] to take [desired action] with a clear and convincing call-to-action.",
-    "category": "Youtube Ad Scripts"
+    "category": "Youtube",
+    "tags": [
+      "youtube",
+      "ad-script",
+      "comparison",
+      "competitive-advantage",
+      "strengths"
+    ]
   },
   {
     "id": "youtube-ad-10",
+    "title": "Testimonial/Case Study YouTube Ad Script",
     "prompt": "I want a YouTube ad script that will use a testimonial or case study from a satisfied customer to demonstrate the effectiveness and benefits of my [product/service] and persuade my [ideal customer persona] to take [desired action].",
-    "category": "Youtube Ad Scripts"
+    "category": "Youtube",
+    "tags": [
+      "youtube",
+      "ad-script",
+      "testimonial",
+      "case-study",
+      "social-proof"
+    ]
   }
 ]
