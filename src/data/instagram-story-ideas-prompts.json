@@ -1,52 +1,132 @@
 [
   {
     "id": "instagram-story-1",
+    "title": "Humorous Story Showcasing Problem Solving",
     "prompt": "Create an Instagram story that uses humor and creativity to showcase how your [product/service] solves a unique problem faced by your [ideal customer persona].",
-    "category": "Instagram Story Ideas"
+    "category": "Instagram",
+    "tags": [
+      "instagram",
+      "story-idea",
+      "humor",
+      "problem-solving",
+      "product-marketing"
+    ]
   },
   {
     "id": "instagram-story-2",
+    "title": "Instagram Story Dispelling Industry Myths",
     "prompt": "Develop an Instagram story that highlights a common misconception or myth about your industry and provides valuable information to your [ideal customer persona] to dispel those myths and persuade them to take [desired action].",
-    "category": "Instagram Story Ideas"
+    "category": "Instagram",
+    "tags": [
+      "instagram",
+      "story-idea",
+      "myth-busting",
+      "education",
+      "persuasion"
+    ]
   },
   {
     "id": "instagram-story-3",
+    "title": "Humanize Brand with Employee/Customer Story",
     "prompt": "Craft an Instagram story that humanizes your [brand/company] by featuring an employee or customer who embodies your company's values and showcases how your [product/service] has positively impacted their life.",
-    "category": "Instagram Story Ideas"
+    "category": "Instagram",
+    "tags": [
+      "instagram",
+      "story-idea",
+      "brand-humanization",
+      "customer-story",
+      "company-values"
+    ]
   },
   {
     "id": "instagram-story-4",
+    "title": "Customer Transformation Story (Before & After)",
     "prompt": "Build an Instagram story that showcases the transformation of a customer who has used your [product/service], including before-and-after visuals and testimonials, to persuade your [ideal customer persona] to make a purchase.",
-    "category": "Instagram Story Ideas"
+    "category": "Instagram",
+    "tags": [
+      "instagram",
+      "story-idea",
+      "customer-transformation",
+      "before-after",
+      "social-proof"
+    ]
   },
   {
     "id": "instagram-story-5",
+    "title": "Behind-the-Scenes Virtual Tour Story",
     "prompt": "Design an Instagram story that takes your [ideal customer persona] on a virtual tour of your workspace or production process, showcasing the behind-the-scenes of your company and persuading them to take [desired action].",
-    "category": "Instagram Story Ideas"
+    "category": "Instagram",
+    "tags": [
+      "instagram",
+      "story-idea",
+      "behind-the-scenes",
+      "virtual-tour",
+      "transparency"
+    ]
   },
   {
     "id": "instagram-story-6",
+    "title": "Product in Action Story with Limited-Time Offer",
     "prompt": "Create an Instagram story that showcases your [product/service] in action, highlighting its unique features and benefits, and persuading your [ideal customer persona] to make a purchase with a limited-time offer or discount.",
-    "category": "Instagram Story Ideas"
+    "category": "Instagram",
+    "tags": [
+      "instagram",
+      "story-idea",
+      "product-demo",
+      "limited-time-offer",
+      "sales"
+    ]
   },
   {
     "id": "instagram-story-7",
+    "title": "Relatable Customer Problem-Solving Story",
     "prompt": "Develop an Instagram story that uses a relatable and engaging story to demonstrate how your [product/service] has solved a problem for a customer, persuading your [ideal customer persona] to make a purchase and follow your account for more stories like this.",
-    "category": "Instagram Story Ideas"
+    "category": "Instagram",
+    "tags": [
+      "instagram",
+      "story-idea",
+      "storytelling",
+      "problem-solving",
+      "engagement"
+    ]
   },
   {
     "id": "instagram-story-8",
+    "title": "Feature Customer Review/Testimonial Story",
     "prompt": "Craft an Instagram story that features a customer review or testimonial, highlighting the specific benefits and outcomes they experienced with your [product/service], and persuading your [ideal customer persona] to make a purchase.",
-    "category": "Instagram Story Ideas"
+    "category": "Instagram",
+    "tags": [
+      "instagram",
+      "story-idea",
+      "testimonial",
+      "social-proof",
+      "benefits"
+    ]
   },
   {
     "id": "instagram-story-9",
+    "title": "Highlight Sustainability/Ethical Practices Story",
     "prompt": "Build an Instagram story that highlights the sustainability or ethical practices of your company, persuading your [ideal customer persona] to choose your [product/service] over competitors who do not prioritize these values.",
-    "category": "Instagram Story Ideas"
+    "category": "Instagram",
+    "tags": [
+      "instagram",
+      "story-idea",
+      "sustainability",
+      "ethical-practices",
+      "company-values"
+    ]
   },
   {
     "id": "instagram-story-10",
+    "title": "Engaging Story for Specific Problem Solving with CTA",
     "prompt": "Design an Instagram story that uses a relatable and engaging story to showcase how your [product/service] solves a specific problem or need of your [ideal customer persona], and persuading them to make a purchase with a clear call-to-action and compelling visuals.",
-    "category": "Instagram Story Ideas"
+    "category": "Instagram",
+    "tags": [
+      "instagram",
+      "story-idea",
+      "storytelling",
+      "problem-solving",
+      "call-to-action"
+    ]
   }
 ]
