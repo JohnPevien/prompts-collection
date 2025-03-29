@@ -1,52 +1,118 @@
 [
-  {
-    "id": "cold-dm-1",
-    "prompt": "Craft a cold DM idea that will showcase the unique features and benefits of my [product/service] to my [ideal customer persona] by personalizing the message to their specific pain points and needs, and using persuasive language that addresses their objections.",
-    "category": "Cold DM Ideas"
-  },
-  {
-    "id": "cold-dm-2",
-    "prompt": "Brainstorm a cold DM idea that will demonstrate my [product/service] as a solution to a problem my [ideal customer persona] may not even realize they have. Use storytelling techniques to make the message memorable and persuasive.",
-    "category": "Cold DM Ideas"
-  },
-  {
-    "id": "cold-dm-3",
-    "prompt": "Generate a cold DM idea that will build trust and credibility with my [ideal customer persona] by highlighting my brand's accomplishments and awards. Use social proof to show that others trust and use my [product/service].",
-    "category": "Cold DM Ideas"
-  },
-  {
-    "id": "cold-dm-4",
-    "prompt": "Create a cold DM idea that will target the objections of my [ideal customer persona] and provide solutions to their problems. Use clear and concise language that shows them how my [product/service] will improve their life or business.",
-    "category": "Cold DM Ideas"
-  },
-  {
-    "id": "cold-dm-5",
-    "prompt": "Develop a cold DM idea that will use scarcity and urgency to create a fear of missing out in my [ideal customer persona]. Create a limited-time offer or exclusive deal that they cannot resist.",
-    "category": "Cold DM Ideas"
-  },
-  {
-    "id": "cold-dm-6",
-    "prompt": "Craft a cold DM idea that will target the emotions of my [ideal customer persona] by using storytelling techniques to create a relatable and authentic message. Use compelling visuals that showcase the benefits of my [product/service].",
-    "category": "Cold DM Ideas"
-  },
-  {
-    "id": "cold-dm-7",
-    "prompt": "Generate a cold DM idea that will showcase the user experience of my [product/service] by providing step-by-step instructions on how to use it. Use language that makes it easy for my [ideal customer persona] to understand and implement.",
-    "category": "Cold DM Ideas"
-  },
-  {
-    "id": "cold-dm-8",
-    "prompt": "Brainstorm a cold DM idea that will create a sense of community and belonging for my [ideal customer persona]. Use social media engagement techniques to encourage user-generated content and showcase their experiences with my [product/service].",
-    "category": "Cold DM Ideas"
-  },
-  {
-    "id": "cold-dm-9",
-    "prompt": "Create a cold DM idea that will leverage the power of influencers to promote my [product/service]. Collaborate with micro-influencers or industry experts to create authentic and relatable content that resonates with my [ideal customer persona].",
-    "category": "Cold DM Ideas"
-  },
-  {
-    "id": "cold-dm-10",
-    "prompt": "Develop a cold DM idea that will provide value to my [ideal customer persona] beyond my [product/service]. Offer tips or advice related to their interests or hobbies, and tie it back to how my [product/service] can enhance their experience.",
-    "category": "Cold DM Ideas"
-  }
-]
+    {
+      "id": "showcase-features-and-benefits",
+      "title": "Cold DM Idea: Showcase Features & Benefits",
+      "prompt": "Craft a cold DM idea that will showcase the unique features and benefits of my [product/service] to my [ideal customer persona] by personalizing the message to their specific pain points and needs, and using persuasive language that addresses their objections.",
+      "category": "Cold DM Ideas",
+      "tags": [
+        "features",
+        "benefits",
+        "personalization",
+        "persuasive-language"
+      ]
+    },
+    {
+      "id": "problem-solution-storytelling",
+      "title": "Cold DM Idea: Problem Solution Storytelling",
+      "prompt": "Brainstorm a cold DM idea that will demonstrate my [product/service] as a solution to a problem my [ideal customer persona] may not even realize they have. Use storytelling techniques to make the message memorable and persuasive.",
+      "category": "Cold DM Ideas",
+      "tags": [
+        "problem-solving",
+        "storytelling",
+        "persuasion"
+      ]
+    },
+    {
+      "id": "build-trust-with-social-proof",
+      "title": "Cold DM Idea: Build Trust with Social Proof",
+      "prompt": "Generate a cold DM idea that will build trust and credibility with my [ideal customer persona] by highlighting my brand's accomplishments and awards. Use social proof to show that others trust and use my [product/service].",
+      "category": "Cold DM Ideas",
+      "tags": [
+        "trust",
+        "credibility",
+        "social-proof",
+        "accomplishments"
+      ]
+    },
+    {
+      "id": "target-objections-with-solutions",
+      "title": "Cold DM Idea: Target Objections with Solutions",
+      "prompt": "Create a cold DM idea that will target the objections of my [ideal customer persona] and provide solutions to their problems. Use clear and concise language that shows them how my [product/service] will improve their life or business.",
+      "category": "Cold DM Ideas",
+      "tags": [
+        "objections",
+        "solutions",
+        "clear-communication"
+      ]
+    },
+    {
+      "id": "create-fomo-with-scarcity",
+      "title": "Cold DM Idea: Create FOMO with Scarcity",
+      "prompt": "Develop a cold DM idea that will use scarcity and urgency to create a fear of missing out in my [ideal customer persona]. Create a limited-time offer or exclusive deal that they cannot resist.",
+      "category": "Cold DM Ideas",
+      "tags": [
+        "scarcity",
+        "urgency",
+        "fomo",
+        "exclusive-offers"
+      ]
+    },
+    {
+      "id": "emotional-storytelling",
+      "title": "Cold DM Idea: Emotional Storytelling",
+      "prompt": "Craft a cold DM idea that will target the emotions of my [ideal customer persona] by using storytelling techniques to create a relatable and authentic message. Use compelling visuals that showcase the benefits of my [product/service].",
+      "category": "Cold DM Ideas",
+      "tags": [
+        "emotional-appeal",
+        "storytelling",
+        "authenticity",
+        "visuals"
+      ]
+    },
+    {
+      "id": "showcase-user-experience",
+      "title": "Cold DM Idea: Showcase User Experience",
+      "prompt": "Generate a cold DM idea that will showcase the user experience of my [product/service] by providing step-by-step instructions on how to use it. Use language that makes it easy for my [ideal customer persona] to understand and implement.",
+      "category": "Cold DM Ideas",
+      "tags": [
+        "user-experience",
+        "instructions",
+        "simplicity"
+      ]
+    },
+    {
+      "id": "build-community-engagement",
+      "title": "Cold DM Idea: Build Community Engagement",
+      "prompt": "Brainstorm a cold DM idea that will create a sense of community and belonging for my [ideal customer persona]. Use social media engagement techniques to encourage user-generated content and showcase their experiences with my [product/service].",
+      "category": "Cold DM Ideas",
+      "tags": [
+        "community",
+        "engagement",
+        "user-generated-content",
+        "belonging"
+      ]
+    },
+    {
+      "id": "leverage-influencer-partnerships",
+      "title": "Cold DM Idea: Leverage Influencer Partnerships",
+      "prompt": "Create a cold DM idea that will leverage the power of influencers to promote my [product/service]. Collaborate with micro-influencers or industry experts to create authentic and relatable content that resonates with my [ideal customer persona].",
+      "category": "Cold DM Ideas",
+      "tags": [
+        "influencers",
+        "partnerships",
+        "authentic-content"
+      ]
+    },
+    {
+      "id": "provide-value-beyond-product",
+      "title": "Cold DM Idea: Provide Value Beyond Product",
+      "prompt": "Develop a cold DM idea that will provide value to my [ideal customer persona] beyond my [product/service]. Offer tips or advice related to their interests or hobbies, and tie it back to how my [product/service] can enhance their experience.",
+      "category": "Cold DM Ideas",
+      "tags": [
+        "value-add",
+        "tips",
+        "advice",
+        "relevance"
+      ]
+    }
+  ]

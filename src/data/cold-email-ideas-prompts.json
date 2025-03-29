@@ -1,52 +1,122 @@
 [
   {
-    "id": "cold-email-1",
+    "id": "leverage-social-proof",
+    "title": "Cold Email Idea: Leverage Social Proof",
     "prompt": "I'm seeking a cold email idea that will leverage social proof to persuade my [ideal customer persona] to take [desired action] by showcasing industry awards, accolades, or testimonials from reputable sources.",
-    "category": "Cold Email Ideas"
+    "category": "Cold Email Ideas",
+    "tags": [
+      "social-proof",
+      "testimonials",
+      "credibility",
+      "persuasion"
+    ]
   },
   {
-    "id": "cold-email-2",
+    "id": "personalized-appreciation",
+    "title": "Cold Email Idea: Personalized Appreciation",
     "prompt": "I'm looking for a cold email idea that will personalize the message to my [ideal customer persona] by using their name, mentioning a recent purchase or interaction, and then persuade them to take [desired action] with a sense of appreciation and gratitude.",
-    "category": "Cold Email Ideas"
+    "category": "Cold Email Ideas",
+    "tags": [
+      "personalization",
+      "appreciation",
+      "gratitude",
+      "customer-relationship"
+    ]
   },
   {
-    "id": "cold-email-3",
+    "id": "fomo-with-limited-offers",
+    "title": "Cold Email Idea: FOMO with Limited Offers",
     "prompt": "I need a cold email idea that will tap into the FOMO (fear of missing out) of my [ideal customer persona] by offering limited-time discounts, exclusive access, or early bird pricing to persuade them to take [desired action] with a sense of urgency.",
-    "category": "Cold Email Ideas"
+    "category": "Cold Email Ideas",
+    "tags": [
+      "fomo",
+      "urgency",
+      "exclusive-offers",
+      "limited-time"
+    ]
   },
   {
-    "id": "cold-email-4",
+    "id": "roi-focused-value",
+    "title": "Cold Email Idea: ROI Focused Value",
     "prompt": "I'm seeking a cold email idea that will highlight the potential return on investment my [ideal customer persona] can receive by using my [product/service] and persuade them to take [desired action] with clear and measurable results.",
-    "category": "Cold Email Ideas"
+    "category": "Cold Email Ideas",
+    "tags": [
+      "roi",
+      "value-proposition",
+      "measurable-results",
+      "case-studies"
+    ]
   },
   {
-    "id": "cold-email-5",
+    "id": "problem-solution-education",
+    "title": "Cold Email Idea: Problem-Solution Education",
     "prompt": "I'm looking for a cold email idea that will educate my [ideal customer persona] about a common problem they face and then offer a solution with my [product/service] to persuade them to take [desired action] with a sense of relief and confidence.",
-    "category": "Cold Email Ideas"
+    "category": "Cold Email Ideas",
+    "tags": [
+      "problem-solution",
+      "education",
+      "pain-points",
+      "confidence"
+    ]
   },
   {
-    "id": "cold-email-6",
+    "id": "curiosity-and-intrigue",
+    "title": "Cold Email Idea: Curiosity and Intrigue",
     "prompt": "I need a cold email idea that will create curiosity in my [ideal customer persona] by asking a thought-provoking question, sharing a surprising statistic, or sharing a little-known fact to persuade them to take [desired action] with a sense of intrigue and interest.",
-    "category": "Cold Email Ideas"
+    "category": "Cold Email Ideas",
+    "tags": [
+      "curiosity",
+      "questions",
+      "statistics",
+      "engagement"
+    ]
   },
   {
-    "id": "cold-email-7",
+    "id": "visual-demonstration",
+    "title": "Cold Email Idea: Visual Demonstration",
     "prompt": "I'm looking for a cold email idea that will showcase my [product/service] in action through a video or a live demo and persuade my [ideal customer persona] to take [desired action] with a sense of excitement and engagement.",
-    "category": "Cold Email Ideas"
+    "category": "Cold Email Ideas",
+    "tags": [
+      "video-content",
+      "demonstrations",
+      "visual-appeal",
+      "engagement"
+    ]
   },
   {
-    "id": "cold-email-8",
+    "id": "emotional-storytelling",
+    "title": "Cold Email Idea: Emotional Storytelling",
     "prompt": "I need a cold email idea that will leverage the power of storytelling to connect with my [ideal customer persona] emotionally and then persuade them to take [desired action] with a compelling narrative that resonates with their values and beliefs.",
-    "category": "Cold Email Ideas"
+    "category": "Cold Email Ideas",
+    "tags": [
+      "storytelling",
+      "emotional-appeal",
+      "values",
+      "narrative"
+    ]
   },
   {
-    "id": "cold-email-9",
+    "id": "urgency-through-scarcity",
+    "title": "Cold Email Idea: Urgency Through Scarcity",
     "prompt": "I'm seeking a cold email idea that will create a sense of urgency by using scarcity tactics, such as limited inventory, expiring promotions, or a countdown timer to persuade my [ideal customer persona] to take [desired action] before it's too late.",
-    "category": "Cold Email Ideas"
+    "category": "Cold Email Ideas",
+    "tags": [
+      "urgency",
+      "scarcity",
+      "limited-availability",
+      "countdown"
+    ]
   },
   {
-    "id": "cold-email-10",
+    "id": "thought-leadership-positioning",
+    "title": "Cold Email Idea: Thought Leadership Positioning",
     "prompt": "I need a cold email idea that will demonstrate thought leadership and expertise by sharing valuable industry insights and tips, positioning my [product/service] as the trusted solution for my [ideal customer persona].",
-    "category": "Cold Email Ideas"
+    "category": "Cold Email Ideas",
+    "tags": [
+      "thought-leadership",
+      "expertise",
+      "industry-insights",
+      "trust"
+    ]
   }
 ]
