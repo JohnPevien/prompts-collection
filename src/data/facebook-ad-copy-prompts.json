@@ -1,52 +1,72 @@
 [
   {
     "id": "facebook-ad-1",
+    "title": "Facebook Ad: Social Responsibility & Impact",
     "prompt": "I'm looking for a Facebook ad copy that will highlight the social responsibility and positive impact of my [brand/company] on the community and the environment, and encourage my [ideal customer persona] to support the cause by trying my [product/service].",
-    "category": "Facebook Ad Copy"
+    "category": "Facebook Ad Copy",
+    "tags": ["facebook-ad", "social-responsibility", "positive-impact", "community", "environment", "cause-marketing"]
   },
   {
     "id": "facebook-ad-2",
+    "title": "Facebook Ad: Convenience & Time-Saving",
     "prompt": "I need a Facebook ad copy that will emphasize the convenience and time-saving benefits of my [product/service] for my [ideal customer persona], and showcase how it can help simplify their busy lives.",
-    "category": "Facebook Ad Copy"
+    "category": "Facebook Ad Copy",
+    "tags": ["facebook-ad", "convenience", "time-saving", "benefits", "busy-life"]
   },
   {
     "id": "facebook-ad-3",
+    "title": "Facebook Ad: Emotional Appeal & Testimonials",
     "prompt": "I'm looking for a Facebook ad copy that will leverage the emotional appeal of my [product/service] by showcasing heartwarming stories and testimonials from satisfied customers, and encouraging my [ideal customer persona] to experience it for themselves.",
-    "category": "Facebook Ad Copy"
+    "category": "Facebook Ad Copy",
+    "tags": ["facebook-ad", "emotional-appeal", "testimonials", "storytelling", "customer-stories"]
   },
   {
     "id": "facebook-ad-4",
+    "title": "Facebook Ad: Premium & Exclusivity",
     "prompt": "I need a Facebook ad copy that will showcase the premium and luxurious experience of my [product/service], and create a sense of exclusivity and prestige for my [ideal customer persona].",
-    "category": "Facebook Ad Copy"
+    "category": "Facebook Ad Copy",
+    "tags": ["facebook-ad", "premium", "luxury", "exclusivity", "prestige"]
   },
   {
     "id": "facebook-ad-5",
+    "title": "Facebook Ad: Limited-Time Offer & Urgency",
     "prompt": "I'm looking for a Facebook ad copy that will feature a limited-time offer or bundle deal for my [product/service] that will create a sense of urgency and encourage my [ideal customer persona] to take action and make a purchase.",
-    "category": "Facebook Ad Copy"
+    "category": "Facebook Ad Copy",
+    "tags": ["facebook-ad", "limited-time-offer", "bundle-deal", "urgency", "call-to-action", "promotion"]
   },
   {
     "id": "facebook-ad-6",
+    "title": "Facebook Ad: Versatility & Flexibility",
     "prompt": "I need a Facebook ad copy that will showcase the versatility and flexibility of my [product/service], and how it can cater to the unique needs and preferences of my [ideal customer persona].",
-    "category": "Facebook Ad Copy"
+    "category": "Facebook Ad Copy",
+    "tags": ["facebook-ad", "versatility", "flexibility", "customization", "unique-needs"]
   },
   {
     "id": "facebook-ad-7",
+    "title": "Facebook Ad: Storytelling & Aspirations",
     "prompt": "I'm looking for a Facebook ad copy that will leverage the power of storytelling to create an emotional connection with my [ideal customer persona], and showcase how my [product/service] can help them achieve their dreams and aspirations.",
-    "category": "Facebook Ad Copy"
+    "category": "Facebook Ad Copy",
+    "tags": ["facebook-ad", "storytelling", "emotional-connection", "aspirations", "dreams"]
   },
   {
     "id": "facebook-ad-8",
+    "title": "Facebook Ad: Quality & Trust",
     "prompt": "I need a Facebook ad copy that will showcase the quality and craftsmanship of my [product/service], and create a sense of trust and reliability for my [ideal customer persona].",
-    "category": "Facebook Ad Copy"
+    "category": "Facebook Ad Copy",
+    "tags": ["facebook-ad", "quality", "craftsmanship", "trust", "reliability"]
   },
   {
     "id": "facebook-ad-9",
+    "title": "Facebook Ad: Humor & Engagement",
     "prompt": "I'm looking for a Facebook ad copy that will leverage the power of humor and wit to engage my [ideal customer persona], and showcase how my [product/service] can add fun and entertainment to their daily lives.",
-    "category": "Facebook Ad Copy"
+    "category": "Facebook Ad Copy",
+    "tags": ["facebook-ad", "humor", "wit", "engagement", "fun", "entertainment"]
   },
   {
     "id": "facebook-ad-10",
+    "title": "Facebook Ad: Expertise & Authority",
     "prompt": "I need a Facebook ad copy that will showcase the expertise and authority of my brand by offering valuable insights and tips related to my [product/service], and create a sense of trust and credibility for my [ideal customer persona].",
-    "category": "Facebook Ad Copy"
+    "category": "Facebook Ad Copy",
+    "tags": ["facebook-ad", "expertise", "authority", "valuable-insights", "tips", "trust", "credibility"]
   }
 ]
