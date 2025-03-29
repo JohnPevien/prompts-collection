@@ -1,52 +1,132 @@
 [
   {
     "id": "psychological-1",
+    "title": "Marketing Campaign Using Scarcity Theory & FOMO",
     "prompt": "Craft a marketing campaign that leverages the principles of Scarcity Theory to appeal to the fear of missing out (FOMO) of [ideal customer persona]. Highlight the limited availability or exclusive nature of our [product/service] and use language that creates a sense of urgency and encourages immediate action.",
-    "category": "Psychological models"
+    "category": "Psychological models",
+    "tags": [
+      "marketing",
+      "psychology",
+      "scarcity-theory",
+      "fomo",
+      "urgency"
+    ]
   },
   {
     "id": "psychological-2",
+    "title": "Marketing Campaign Using Foot-in-the-Door Technique",
     "prompt": "Using the 'Foot-in-the-Door' technique, create a marketing campaign outline that gradually persuades [ideal customer persona] to take a desired action. Start with a small request, such as signing up for a newsletter, and gradually increase the request until they are more likely to take a larger action.",
-    "category": "Psychological models"
+    "category": "Psychological models",
+    "tags": [
+      "marketing",
+      "psychology",
+      "foot-in-the-door",
+      "persuasion",
+      "gradual-commitment"
+    ]
   },
   {
     "id": "psychological-3",
+    "title": "Marketing Campaign Using Primacy and Recency Effect",
     "prompt": "Write a marketing campaign that incorporates the 'Primacy and Recency Effect' to influence the perception and decision-making of [ideal customer persona]. Place our strongest messages or offers at the beginning and end of the campaign to increase memorability and impact.",
-    "category": "Psychological models"
+    "category": "Psychological models",
+    "tags": [
+      "marketing",
+      "psychology",
+      "primacy-effect",
+      "recency-effect",
+      "message-placement"
+    ]
   },
   {
     "id": "psychological-4",
+    "title": "Marketing Campaign Based on Hierarchy of Effects Model",
     "prompt": "Create a marketing campaign outline that appeals to the needs of [ideal customer persona] by leveraging the principles of the 'Hierarchy of Effects' model. Start by creating awareness of our [product/service], then move towards building interest, desire, and finally, action.",
-    "category": "Psychological models"
+    "category": "Psychological models",
+    "tags": [
+      "marketing",
+      "psychology",
+      "hierarchy-of-effects",
+      "customer-journey",
+      "awareness"
+    ]
   },
   {
     "id": "psychological-5",
+    "title": "Marketing Campaign Using Affective Forecasting",
     "prompt": "Using the 'Affective Forecasting' framework, write a marketing campaign that appeals to the emotions and desires of [ideal customer persona] by highlighting the positive outcomes and experiences they will have with our [product/service].",
-    "category": "Psychological models"
+    "category": "Psychological models",
+    "tags": [
+      "marketing",
+      "psychology",
+      "affective-forecasting",
+      "emotional-appeal",
+      "positive-outcomes"
+    ]
   },
   {
     "id": "psychological-6",
+    "title": "Marketing Campaign Leveraging Social Proof",
     "prompt": "Craft a marketing campaign that incorporates the 'Social Proof' principle to appeal to the social nature of [ideal customer persona]. Use testimonials, reviews, and social media content to show how others have successfully used our [product/service].",
-    "category": "Psychological models"
+    "category": "Psychological models",
+    "tags": [
+      "marketing",
+      "psychology",
+      "social-proof",
+      "testimonials",
+      "reviews"
+    ]
   },
   {
     "id": "psychological-7",
+    "title": "Marketing Campaign Building Credibility",
     "prompt": "Using the 'Credibility' principle, create a marketing campaign that builds trust and credibility with [ideal customer persona]. Use language that emphasizes the expertise and qualifications of our team or brand, and highlight any awards, certifications, or partnerships.",
-    "category": "Psychological models"
+    "category": "Psychological models",
+    "tags": [
+      "marketing",
+      "psychology",
+      "credibility",
+      "trust-building",
+      "authority"
+    ]
   },
   {
     "id": "psychological-8",
+    "title": "Marketing Campaign Using Scarcity vs Abundance",
     "prompt": "Write a marketing campaign outline that leverages the 'Scarcity vs Abundance' principle to influence the decision-making of [ideal customer persona]. Use language that highlights the scarcity of our [product/service], while also emphasizing the abundance of benefits.",
-    "category": "Psychological models"
+    "category": "Psychological models",
+    "tags": [
+      "marketing",
+      "psychology",
+      "scarcity",
+      "abundance",
+      "framing"
+    ]
   },
   {
     "id": "psychological-9",
+    "title": "Marketing Campaign Utilizing Confirmation Bias",
     "prompt": "Create a marketing campaign that appeals to the cognitive biases of [ideal customer persona] by using the 'Confirmation Bias' principle. Use language and messaging that confirms their existing beliefs and values, and highlight how our [product/service] aligns with their worldview.",
-    "category": "Psychological models"
+    "category": "Psychological models",
+    "tags": [
+      "marketing",
+      "psychology",
+      "cognitive-bias",
+      "confirmation-bias",
+      "belief-alignment"
+    ]
   },
   {
     "id": "psychological-10",
+    "title": "Marketing Campaign Using the Endowment Effect",
     "prompt": "Using the 'Endowment Effect' framework, write a marketing campaign that appeals to the emotional attachment of [ideal customer persona] to our [product/service]. Use language that highlights the personal value and attachment they may have to our product.",
-    "category": "Psychological models"
+    "category": "Psychological models",
+    "tags": [
+      "marketing",
+      "psychology",
+      "endowment-effect",
+      "ownership",
+      "value-perception"
+    ]
   }
 ]
