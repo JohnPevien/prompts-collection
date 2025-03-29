@@ -1,52 +1,72 @@
 [
   {
-    "id": "email-1",
+    "id": "value-proposition-email",
+    "title": "Value Proposition Email",
     "prompt": "Craft an email that highlights the unique value proposition of your [product/service] and positions it as the ultimate solution for your [ideal customer persona]. Use persuasive language to address any potential objections and encourage them to take the desired action.",
-    "category": "Email Marketing"
+    "category": "Email Marketing",
+    "tags": ["value-proposition", "objection-handling", "persuasive-language", "call-to-action"]
   },
   {
-    "id": "email-2",
+    "id": "emotional-connection-email",
+    "title": "Emotional Connection Email",
     "prompt": "Write an email that connects with your [ideal customer persona] on an emotional level by addressing their pain points and needs. Use persuasive language and a sense of urgency to encourage them to take the desired action and offer a compelling incentive to seal the deal.",
-    "category": "Email Marketing"
+    "category": "Email Marketing",
+    "tags": ["emotional-appeal", "pain-points", "urgency", "incentives"]
   },
   {
-    "id": "email-3",
+    "id": "social-proof-email",
+    "title": "Social Proof Email",
     "prompt": "Compose an email that showcases the credibility and social proof of your [product/service] by sharing testimonials from previous satisfied customers. Address the concerns and objections of your [ideal customer persona] and use persuasive language to encourage them to take the desired action.",
-    "category": "Email Marketing"
+    "category": "Email Marketing",
+    "tags": ["social-proof", "testimonials", "credibility", "objection-handling"]
   },
   {
-    "id": "email-4",
+    "id": "transformation-story-email",
+    "title": "Transformation Story Email",
     "prompt": "Craft an email that tells a compelling story about how your [product/service] has transformed the lives of your [ideal customer persona]. Use persuasive language and a strong call-to-action to encourage them to take the desired action and make a purchase.",
-    "category": "Email Marketing"
+    "category": "Email Marketing",
+    "tags": ["storytelling", "transformation", "persuasive-language", "call-to-action"]
   },
   {
-    "id": "email-5",
+    "id": "personal-connection-email",
+    "title": "Personal Connection Email",
     "prompt": "Write an email that establishes trust and rapport with your [ideal customer persona] by sharing your personal story and why you are passionate about your [product/service]. Use persuasive language to address their pain points and concerns and encourage them to take the desired action.",
-    "category": "Email Marketing"
+    "category": "Email Marketing",
+    "tags": ["personal-story", "trust-building", "passion", "pain-points"]
   },
   {
-    "id": "email-6",
+    "id": "features-and-benefits-email",
+    "title": "Features and Benefits Email",
     "prompt": "Compose an email that showcases the unique features and benefits of your [product/service] and how it can solve the specific challenges faced by your [ideal customer persona]. Use persuasive language and a strong call-to-action to encourage them to take the desired action.",
-    "category": "Email Marketing"
+    "category": "Email Marketing",
+    "tags": ["features", "benefits", "problem-solving", "call-to-action"]
   },
   {
-    "id": "email-7",
+    "id": "urgency-and-exclusivity-email",
+    "title": "Urgency and Exclusivity Email",
     "prompt": "Craft an email that creates a sense of exclusivity and urgency by offering a limited-time promotion or special deal to your [ideal customer persona]. Use persuasive language to highlight the unique value proposition of your [product/service] and encourage them to take the desired action.",
-    "category": "Email Marketing"
+    "category": "Email Marketing",
+    "tags": ["exclusivity", "urgency", "limited-time", "special-offers"]
   },
   {
-    "id": "email-8",
+    "id": "values-and-goals-email",
+    "title": "Values and Goals Email",
     "prompt": "Write an email that connects with the personal values and desires of your [ideal customer persona] and positions your [product/service] as the key to achieving their goals. Use persuasive language and a strong call-to-action to encourage them to take the desired action.",
-    "category": "Email Marketing"
+    "category": "Email Marketing",
+    "tags": ["values", "goals", "aspiration", "persuasive-language"]
   },
   {
-    "id": "email-9",
+    "id": "convenience-and-simplicity-email",
+    "title": "Convenience and Simplicity Email",
     "prompt": "Compose an email that emphasizes the convenience and ease of use of your [product/service] and how it can simplify the lives of your [ideal customer persona]. Use persuasive language to address any concerns or objections and encourage them to take the desired action.",
-    "category": "Email Marketing"
+    "category": "Email Marketing",
+    "tags": ["convenience", "simplicity", "ease-of-use", "time-saving"]
   },
   {
-    "id": "email-10",
+    "id": "authority-and-value-email",
+    "title": "Authority and Value Email",
     "prompt": "Craft an email that showcases the expertise and authority of your brand by offering valuable insights and tips related to your [product/service]. Use persuasive language and a strong call-to-action to encourage them to take the desired action and engage with your brand further.",
-    "category": "Email Marketing"
+    "category": "Email Marketing",
+    "tags": ["authority", "expertise", "value-first", "engagement"]
   }
 ]
