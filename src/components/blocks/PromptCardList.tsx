@@ -24,8 +24,10 @@ export default function PromptCardList({
 
     if (searchQuery) {
         filteredPrompts = filteredPrompts.filter(
-            ([title, prompt]) =>
-                title.toLowerCase().includes(searchQuery.toLowerCase()) ||
+            (prompt) =>
+                prompt.title
+                    .toLowerCase()
+                    .includes(searchQuery.toLowerCase()) ||
                 prompt.prompt.toLowerCase().includes(searchQuery.toLowerCase()),
         );
     }
@@ -38,8 +40,8 @@ export default function PromptCardList({
                 />
             )}
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-                {filteredPrompts.map(([title, prompt]) => (
-                    <PromptCard key={title} title={title} prompt={prompt} />
+                {filteredPrompts.map((prompt) => (
+                    <PromptCard key={prompt.id} prompt={prompt} />
                 ))}
             </div>
         </div>

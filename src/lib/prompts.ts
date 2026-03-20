@@ -1,8 +1,5 @@
 import { Prompt, PromptCategory } from "@src/types";
 
-type PromptArray = Array<{ id: string; prompt: string; category: string }>;
-type PromptRecord = Record<string, Prompt>;
-
 import codingPrompts from "@src/data/coding-prompts.json";
 import blogWritingPrompts from "@src/data/blog-writing-prompts.json";
 import coldDmIdeasPrompts from "@src/data/cold-dm-ideas-prompts.json";
@@ -20,69 +17,31 @@ import twitterThreadIdeasPrompts from "@src/data/twitter-thread-ideas-prompts.js
 import youtubeAdScriptsPrompts from "@src/data/youtube-ad-scripts-prompts.json";
 import youtubeVideoIdeasPrompts from "@src/data/youtube-video-ideas-prompts.json";
 
-function arrayToRecord(
-    arr: PromptArray,
-    overrideCategory?: string,
-): PromptRecord {
-    return arr.reduce((acc, item) => {
-        acc[item.id] = {
-            prompt: item.prompt,
-            category: overrideCategory || item.category,
-            footNote: null,
-            tags: null,
-        };
-        return acc;
-    }, {} as PromptRecord);
-}
+const marketingPrompts: Prompt[] = [
+    ...blogWritingPrompts,
+    ...coldDmIdeasPrompts,
+    ...coldEmailIdeasPrompts,
+    ...contentCreationFrameworksPrompts,
+    ...copywritingFrameworksPrompts,
+    ...copywritingPrompts,
+    ...emailMarketingPrompts,
+    ...facebookAdCopyPrompts,
+    ...growthHackingFrameworksPrompts,
+    ...influencerMarketingPrompts,
+    ...instagramStoryIdeasPrompts,
+    ...psychologicalModelsPrompts,
+    ...twitterThreadIdeasPrompts,
+    ...youtubeAdScriptsPrompts,
+    ...youtubeVideoIdeasPrompts,
+];
 
-const marketingPrompts: PromptRecord = {
-    ...arrayToRecord(blogWritingPrompts, "Marketing"),
-    ...arrayToRecord(coldDmIdeasPrompts, "Marketing"),
-    ...arrayToRecord(coldEmailIdeasPrompts, "Marketing"),
-    ...arrayToRecord(contentCreationFrameworksPrompts, "Marketing"),
-    ...arrayToRecord(copywritingFrameworksPrompts, "Marketing"),
-    ...arrayToRecord(copywritingPrompts, "Marketing"),
-    ...arrayToRecord(emailMarketingPrompts, "Marketing"),
-    ...arrayToRecord(facebookAdCopyPrompts, "Marketing"),
-    ...arrayToRecord(growthHackingFrameworksPrompts, "Marketing"),
-    ...arrayToRecord(influencerMarketingPrompts, "Marketing"),
-    ...arrayToRecord(instagramStoryIdeasPrompts, "Marketing"),
-    ...arrayToRecord(psychologicalModelsPrompts, "Marketing"),
-    ...arrayToRecord(twitterThreadIdeasPrompts, "Marketing"),
-    ...arrayToRecord(youtubeAdScriptsPrompts, "Marketing"),
-    ...arrayToRecord(youtubeVideoIdeasPrompts, "Marketing"),
-};
+const prompts: Prompt[] = [...marketingPrompts, ...codingPrompts];
 
-const prompts: PromptRecord = {
-    ...marketingPrompts,
-    ...codingPrompts,
-};
-
-console.log(
-    "All Categories:",
-    new Set(Object.values(prompts).map((p) => p.category)),
-);
-
-export function getPromptsByCategory(
-    category: PromptCategory,
-): [string, Prompt][] {
-    if (category === "All") {
-        return Object.entries(prompts);
-    }
-
-    const filtered = Object.entries(prompts).filter(([, prompt]) => {
-        const matches =
-            prompt.category?.toLowerCase() === category.toLowerCase();
-        return matches;
-    });
-
-    console.log(
-        `Filtered prompts for category '${category}':`,
-        filtered.length,
-    );
-    return filtered;
-}
-
-export function getAllPrompts(): [string, Prompt][] {
-    return Object.entries(prompts);
+export function getPromptsByCategory(category: PromptCategory): Prompt[] {
+    return category === "All"
+        ? prompts
+        : prompts.filter(
+              (prompt) =>
+                  prompt.category.toLowerCase() === category.toLowerCase(),
+          );
 }
