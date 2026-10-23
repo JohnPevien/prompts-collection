@@ -22,7 +22,8 @@ export function CategoryPage() {
         youtube: "Youtube",
     };
 
-    const categoryName = category ? pathToCategory[category] : "All";
+    const slug = (category ?? "").toLowerCase().replace(/\s+/g, "-");
+    const categoryName = pathToCategory[slug] ?? "All";
 
     return (
         <div className="space-y-6">
